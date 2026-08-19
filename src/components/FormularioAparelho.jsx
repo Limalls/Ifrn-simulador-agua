@@ -1,7 +1,3 @@
-// Este componente só "mostra" o formulário.
-// Ele recebe tudo pronto do App.jsx através de props:
-// os valores atuais dos campos e as funções para avisar quando o usuário digita.
-
 function FormularioAparelho({
   potencia,
   horasPorDia,

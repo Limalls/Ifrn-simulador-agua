@@ -1,6 +1,3 @@
-// Toda a "matemática" do simulador fica aqui, separada do JSX.
-// Assim o App.jsx só chama a função e usa o resultado.
-
 export function calcularGastoMensal(potenciaWatts, horasPorDia, precoKwh) {
   const DIAS_NO_MES = 30
 
